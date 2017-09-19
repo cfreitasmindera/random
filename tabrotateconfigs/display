@@ -5,24 +5,14 @@
 	"autoStart": false,
 	"websites" : [
 		{
-			"url" : "chrome-extension://pjgjpabbgnnoohijnillgbckikfkbjed/app/settings.html",
+			"url" : "www.mindera.com",
 			"duration" : 10,
 			"tabReloadIntervalSeconds": 15
 		},
 		{
-			"url" : "https://github.com/KevinSheedy/chrome-tab-rotate.git",
+			"url" : "www.tvg.com",
 			"duration" : 10,
 			"tabReloadIntervalSeconds": 300
-		},
-		{
-			"url" : "https://chrome.google.com/webstore/detail/tab-rotate/pjgjpabbgnnoohijnillgbckikfkbjed",
-			"duration" : 10,
-			"tabReloadIntervalSeconds": 15
-		},
-		{
-			"url" : "https://ie.linkedin.com/in/kevinsheedy",
-			"duration" : 10,
-			"tabReloadIntervalSeconds": 15
 		}
 	]
 }
