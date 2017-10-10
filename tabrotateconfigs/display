@@ -5,11 +5,6 @@
 	"autoStart": false,
 	"websites" : [
 		{
-			"url" : "https://www.mindera.com",
-			"duration" : 10,
-			"tabReloadIntervalSeconds": 15
-		},
-		{
 			"url" : "https://www.tvg.com",
 			"duration" : 10,
 			"tabReloadIntervalSeconds": 300
