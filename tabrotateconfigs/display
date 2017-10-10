@@ -7,7 +7,7 @@
 		{
 			"url" : "https://www.tvg.com",
 			"duration" : 10,
-			"tabReloadIntervalSeconds": 300
+			"tabReloadIntervalSeconds": 5
 		}
 	]
 }
